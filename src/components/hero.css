@@ -1,0 +1,16 @@
+.hero_wrapper {
+  background: linear-gradient(rgba(49, 49, 49, 0.45), rgba(49, 49, 49, 0.45)),
+    url("../images/squat.jpg") no-repeat center;
+  color: white;
+  min-height: 70vh;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.hero_wrapper h1 {
+  font-size: 80px;
+}
+
+.hero_wrapper p {
+  font-size: 30px;
+}
