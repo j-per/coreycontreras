@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Corey Contreras Personal Training`,
     description: `Irvine Personal Training`,
+    author: `Jesse Perdue`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
